@@ -1,1 +1,1 @@
-import Nav from './src/Components/Menu/Nav.jsx';
+import Nav from './src/Components/App.jsx';
